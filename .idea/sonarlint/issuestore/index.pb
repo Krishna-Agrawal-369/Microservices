@@ -15,3 +15,5 @@ VconfigServer/src/main/java/com/microservices/configServer/ConfigServerApplicati
 bcustomerService/src/main/java/com/microservices/customerService/controller/CustomerController.java,e/b/ebcfcdcda231641a72f061cdaa973600a0706da2
 ‘
 acustomerService/src/main/java/com/microservices/customerService/services/CustomerServiceImpl.java,f/4/f4605cbfa0655bbefe876fb796d66effdf91a388
+Š
+ZratingService/src/main/java/com/microoservices/ratingService/RatingServiceApplication.java,0/4/0440060c043b30f00a332d034d5325997c612e6c
