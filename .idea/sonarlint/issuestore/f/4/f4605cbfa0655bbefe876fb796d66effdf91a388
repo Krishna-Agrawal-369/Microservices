@@ -1,12 +1,12 @@
 
-J
-java:S37400"/Provide the parametrized type for this generic.(’³å¥øÿÿÿÿ
-R
-java:S26292"7Use the built-in formatting to construct this argument.(–¼Áöûÿÿÿÿ
-n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(€ý·W
-X
-java:S6813"BRemove this field injection and use constructor injection instead.(êæÄÞ
-X
-java:S6813"BRemove this field injection and use constructor injection instead.(êæÄÞ
-\
-java:S34572"AFormat specifiers should be used instead of string concatenation.(–¼Áöûÿÿÿÿ
+p
+java:S37400"/Provide the parametrized type for this generic.(’³å¥øÿÿÿÿJ$abe9c462-1760-4317-9d92-8a1b37f46581
+x
+java:S26292"7Use the built-in formatting to construct this argument.(–¼ÁöûÿÿÿÿJ$3ed5488c-0238-427b-ac00-adde3b83a3c0
+”	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(€ý·WJ$fe7b744d-78fd-4e11-84e1-f45f7b626087
+~
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄÞJ$8ba73537-d0f2-421f-a018-1b47ec1d61eb
+~
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄÞJ$60f7d8f3-ea94-4c31-8516-1542ed16cc63
+‚
+java:S34572"AFormat specifiers should be used instead of string concatenation.(–¼ÁöûÿÿÿÿJ$934ec377-144c-4b79-a4fb-83b7f7be775a

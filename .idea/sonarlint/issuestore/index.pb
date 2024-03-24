@@ -17,3 +17,13 @@ bcustomerService/src/main/java/com/microservices/customerService/controller/Cust
 acustomerService/src/main/java/com/microservices/customerService/services/CustomerServiceImpl.java,f/4/f4605cbfa0655bbefe876fb796d66effdf91a388
 ä
 ZratingService/src/main/java/com/microoservices/ratingService/RatingServiceApplication.java,0/4/0440060c043b30f00a332d034d5325997c612e6c
+Ä
+PapiGateway/src/main/java/com/microservices/apiGateway/ApiGatewayApplication.java,e/6/e63c1d18935dda001d3bd13588ca66ff5d9d9e35
+B
+apiGateway/pom.xml,5/d/5d12522676e3ef77e9f9e5d4b18d89702d8b25e2
+à
+XcustomerService/src/main/java/com/microservices/customerService/feign/RatingService.java,e/d/ed5a6ed85ab424a296b719bbf0868cc822c1fd93
+ç
+]ratingService/src/main/java/com/microoservices/ratingService/controller/RatingController.java,f/1/f10089fdb0d12dfbb7ca06453a1da577cdec4886
+G
+customerService/pom.xml,1/c/1cb24ea706388e4c4c35b79c5933f088a560c9fc
